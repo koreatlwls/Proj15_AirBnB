@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_Clone_Coding/Proj15_AirBnB/app/src/main/res/drawable/top_radius_white_background.xml" value="0.2171875" />
         <entry key="..\:/Android_Clone_Coding/Proj15_AirBnB/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Android_Clone_Coding/Proj15_AirBnB/app/src/main/res/layout/bottom_sheet.xml" value="0.20104166666666667" />
+        <entry key="..\:/Android_Clone_Coding/Proj15_AirBnB/app/src/main/res/layout/item_house.xml" value="0.20104166666666667" />
+        <entry key="..\:/Android_Clone_Coding/Proj15_AirBnB/app/src/main/res/layout/item_house_detail_for_viewpager.xml" value="0.20104166666666667" />
       </map>
     </option>
   </component>
