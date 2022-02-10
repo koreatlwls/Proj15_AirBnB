@@ -14,7 +14,6 @@ ViewPager2 를 활용해서 현재 보고있는 숙소를 표시할 수 있음.
 |Screenshot1|Screenshot2|
 |---|---|
 |<img src="./screenshot/1.png"/>|<img src="./screenshot/2.png"/>|
-|<img src="./screenshot/3.png"/>|<img src="./screenshot/4.png"/>|
 
 </br>
 
